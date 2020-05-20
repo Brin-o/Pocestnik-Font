@@ -1,0 +1,10 @@
+# Prefix: Prefix
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@public.kern2.E = [ E F H L M ];
+
+@public.kern1.H = [ H M ];
+
+@public.kern2.n = [ n r ];
+
